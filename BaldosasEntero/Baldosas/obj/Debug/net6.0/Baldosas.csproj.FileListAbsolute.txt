@@ -1,0 +1,12 @@
+C:\Users\aguan\OneDrive\Desktop\carpeta pc\semestre 5\Diseño\Baldosas\Baldosas\bin\Debug\net6.0\Baldosas.deps.json
+C:\Users\aguan\OneDrive\Desktop\carpeta pc\semestre 5\Diseño\Baldosas\Baldosas\bin\Debug\net6.0\Baldosas.dll
+C:\Users\aguan\OneDrive\Desktop\carpeta pc\semestre 5\Diseño\Baldosas\Baldosas\bin\Debug\net6.0\Baldosas.pdb
+C:\Users\aguan\OneDrive\Desktop\carpeta pc\semestre 5\Diseño\Baldosas\Baldosas\obj\Debug\net6.0\Baldosas.csproj.AssemblyReference.cache
+C:\Users\aguan\OneDrive\Desktop\carpeta pc\semestre 5\Diseño\Baldosas\Baldosas\obj\Debug\net6.0\Baldosas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguan\OneDrive\Desktop\carpeta pc\semestre 5\Diseño\Baldosas\Baldosas\obj\Debug\net6.0\Baldosas.AssemblyInfoInputs.cache
+C:\Users\aguan\OneDrive\Desktop\carpeta pc\semestre 5\Diseño\Baldosas\Baldosas\obj\Debug\net6.0\Baldosas.AssemblyInfo.cs
+C:\Users\aguan\OneDrive\Desktop\carpeta pc\semestre 5\Diseño\Baldosas\Baldosas\obj\Debug\net6.0\Baldosas.csproj.CoreCompileInputs.cache
+C:\Users\aguan\OneDrive\Desktop\carpeta pc\semestre 5\Diseño\Baldosas\Baldosas\obj\Debug\net6.0\Baldosas.dll
+C:\Users\aguan\OneDrive\Desktop\carpeta pc\semestre 5\Diseño\Baldosas\Baldosas\obj\Debug\net6.0\refint\Baldosas.dll
+C:\Users\aguan\OneDrive\Desktop\carpeta pc\semestre 5\Diseño\Baldosas\Baldosas\obj\Debug\net6.0\Baldosas.pdb
+C:\Users\aguan\OneDrive\Desktop\carpeta pc\semestre 5\Diseño\Baldosas\Baldosas\obj\Debug\net6.0\ref\Baldosas.dll
