@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/LogicTests/LogicTests.csproj": {}
+  },
+  "projects": {
+    "/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/Logic.csproj",
+        "projectName": "Logic",
+        "projectPath": "/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/Logic.csproj",
+        "packagesPath": "/Users/facundoiraoladopazo/.nuget/packages/",
+        "outputPath": "/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/facundoiraoladopazo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.421/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/LogicTests/LogicTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/LogicTests/LogicTests.csproj",
+        "projectName": "LogicTests",
+        "projectPath": "/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/LogicTests/LogicTests.csproj",
+        "packagesPath": "/Users/facundoiraoladopazo/.nuget/packages/",
+        "outputPath": "/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/LogicTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/facundoiraoladopazo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/Logic.csproj": {
+                "projectPath": "/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.421/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
