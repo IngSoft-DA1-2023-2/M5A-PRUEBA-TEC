@@ -1,0 +1,15 @@
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\bin\Debug\net6.0\m5a-prueba-tec.exe
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\bin\Debug\net6.0\m5a-prueba-tec.deps.json
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\bin\Debug\net6.0\m5a-prueba-tec.runtimeconfig.json
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\bin\Debug\net6.0\m5a-prueba-tec.dll
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\bin\Debug\net6.0\m5a-prueba-tec.pdb
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\obj\Debug\net6.0\m5a-prueba-tec.csproj.AssemblyReference.cache
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\obj\Debug\net6.0\m5a-prueba-tec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\obj\Debug\net6.0\m5a-prueba-tec.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\obj\Debug\net6.0\m5a-prueba-tec.AssemblyInfo.cs
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\obj\Debug\net6.0\m5a-prueba-tec.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\obj\Debug\net6.0\m5a-prueba-tec.dll
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\obj\Debug\net6.0\refint\m5a-prueba-tec.dll
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\obj\Debug\net6.0\m5a-prueba-tec.pdb
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\obj\Debug\net6.0\m5a-prueba-tec.genruntimeconfig.cache
+C:\Users\mathi\source\repos\m5a-prueba-tec\m5a-prueba-tec\obj\Debug\net6.0\ref\m5a-prueba-tec.dll
