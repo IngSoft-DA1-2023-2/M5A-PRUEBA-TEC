@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Baldoseria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df582bcf74618fd71b01d0eecebe6409599498d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98b381d48b97ab1ae7e777c83372f56fe0d761e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Baldoseria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Baldoseria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 ﻿namespace Baldoseria;
 
-public class Shape
+public abstract class Shape
 {
     private double _length;
     private double _width;
