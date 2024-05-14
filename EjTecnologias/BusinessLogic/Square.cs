@@ -10,7 +10,7 @@ public class Square : Shape
 
     public int CalculateCost()
     {
-        return 125;
+        return Area() * 5;
     }
     
     
