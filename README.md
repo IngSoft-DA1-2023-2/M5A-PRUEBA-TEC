@@ -1,5 +1,11 @@
 # Prueba Técnica 1 M5A
 
+# Comentarios:
+Hice TDD, pero siento que quizas por tratar de apurarme me pude haber salteado algun caso borde, solo hice tests para validar los caminos positivos, ej: si en una dimension para una baldoza ingresas menos dimensiones que las que necesita esa figura el programa se cae (creas un rectangulo con una sola medida). Mi objetivo fue tratar de avanzar lo más rápido posible sobre lo que se pedía siempre con TDD.
+Los nombres del MSTEst los puse mal y no me dió tiempo a acomodarlo. Pero los nombres de los archivos si son correctos.
+
+LLegue hasta calcular el costo y area total de una lista de baldozas.
+
 En esta prueba técnica, utilizando TDD (Desarrollo Guiado por Pruebas) y siguiendo buenas prácticas de código, se solicita realizar el siguiente ejercicio.
 
 Se tiene una baldosería con una variedad de baldosas que pueden estar fabricadas con diferentes materiales y tener distintas formas (cuadrado, rectángulo, círculo). Los objetivos son los siguientes:
