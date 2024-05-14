@@ -15,7 +15,7 @@ public class Main
            Tiles.Add(tile);
        }
        
-       public double CalculateTotalPricePerArea()
+       public double CalculateTotal()
        {
            double total = 0;
            foreach (Tile tile in Tiles)

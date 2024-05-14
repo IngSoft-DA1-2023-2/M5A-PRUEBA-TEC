@@ -13,7 +13,7 @@ public class Main_Test
         Tile tile2 = new Tile(new Square(5), new Stone());
         main.AddTile(tile1);
         main.AddTile(tile2);
-        double result = main.CalculateTotalPricePerArea();
+        double result = main.CalculateTotal();
         Assert.AreEqual(result, 560);
     }
 }
