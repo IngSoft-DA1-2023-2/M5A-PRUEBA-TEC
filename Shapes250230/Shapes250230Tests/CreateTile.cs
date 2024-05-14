@@ -13,4 +13,12 @@ public class CreateTile
         Tile newTile = new Tile();
         Assert.IsNotNull(newTile);
     }
+    
+    public void ShouldSetCorrectMaterial()
+    {
+        Tile newTile = new Tile();
+        string expectedMaterial = "piedra";
+        newTile.Material = expectedMaterial;
+        Assert.AreEqual(expectedMaterial, newTile.Material);
+    }
 }
