@@ -2,7 +2,9 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace BusinessLogic.Test;
 
-public class Shape_Test
+[TestClass]
+
+public class ShapeTest
 {
     [TestMethod]
     public void ShouldCreateShape()
