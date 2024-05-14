@@ -1,34 +1,36 @@
 namespace BusinessLogic.Classes.Test;
-
 [TestClass]
-public class UnitTestBaldosaCuadrada
+public class UnitTestBaldosaRectangular
 {
     [TestMethod]
-    public void TestConstructor()
+    public void TestConstructorProperty()
     {   
-        int lado = 2;
+        int largo = 2;
+        int ancho = 3;
         Material material = new MaterialCeramica();
-        BaldosaCuadrada baldosa = new BaldosaCuadrada(lado,material);
-        Assert.AreEqual(baldosa.Ancho,lado);
-        Assert.AreEqual(baldosa.Largo,lado);
+        BaldosaRectangular baldosa = new BaldosaRectangular(largo,ancho,material);
+        Assert.AreEqual(baldosa.Ancho,ancho);
+        Assert.AreEqual(baldosa.Largo,largo);
         Assert.AreEqual(baldosa.Material.Nombre,material.Nombre); 
     }
 
     [TestMethod]
     public void TestCalcularArea(){
-        int lado = 2;
+        int largo = 2;
+        int ancho = 3;
         Material material = new MaterialCeramica();
-        BaldosaCuadrada baldosa = new BaldosaCuadrada(lado,material);
-        int areaEsperada = lado * lado;
+        BaldosaRectangular baldosa = new BaldosaRectangular(largo,ancho,material);
+        int areaEsperada = largo * ancho;
         int areaCalculada = baldosa.CalcularArea();
         Assert.AreEqual(areaEsperada,areaCalculada);
     }
 
     [TestMethod]
     public void TestCalcularPrecio(){
-        int lado = 2;
+        int largo = 2;
+        int ancho = 3;
         Material material = new MaterialCeramica();
-        BaldosaCuadrada baldosa = new BaldosaCuadrada(lado,material);
+        BaldosaRectangular baldosa = new BaldosaRectangular(largo,ancho,material);
         int areaBaldosa = baldosa.CalcularArea();
         int precioMaterial = material.PrecioMetroCuadrado;
         int precioEsperado = areaBaldosa * precioMaterial;
