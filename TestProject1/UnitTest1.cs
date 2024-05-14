@@ -1,19 +1,17 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Baldosas;
 
-namespace Baldosas;
+namespace baldosas.tests;
 
-public class BaldosasTests
+[TestClass]
+public class UnitTest1
 {
-    private string _nombreMaterial = "Cerámica";
+    private string _nombreMaterial = "ceramica";
     private int _precioMaterial = 10;
-    
     [TestMethod]
     public void Material_ShouldConstruct()
     {
-        var material = new Material("Cerámica", 10);
+        var material = new Material(_nombreMaterial, _precioMaterial);
         Assert.AreEqual(_nombreMaterial, material.Nombre);
         Assert.AreEqual(_precioMaterial, material.Precio);
     }
 }
-
-
