@@ -1,0 +1,12 @@
+C:\Users\julit\Escritorio\Julieta-Trostchansky-266993\Prueba\Prueba\bin\Debug\net8.0\Prueba.deps.json
+C:\Users\julit\Escritorio\Julieta-Trostchansky-266993\Prueba\Prueba\bin\Debug\net8.0\Prueba.dll
+C:\Users\julit\Escritorio\Julieta-Trostchansky-266993\Prueba\Prueba\bin\Debug\net8.0\Prueba.pdb
+C:\Users\julit\Escritorio\Julieta-Trostchansky-266993\Prueba\Prueba\obj\Debug\net8.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julit\Escritorio\Julieta-Trostchansky-266993\Prueba\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfoInputs.cache
+C:\Users\julit\Escritorio\Julieta-Trostchansky-266993\Prueba\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfo.cs
+C:\Users\julit\Escritorio\Julieta-Trostchansky-266993\Prueba\Prueba\obj\Debug\net8.0\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\julit\Escritorio\Julieta-Trostchansky-266993\Prueba\Prueba\obj\Debug\net8.0\Prueba.sourcelink.json
+C:\Users\julit\Escritorio\Julieta-Trostchansky-266993\Prueba\Prueba\obj\Debug\net8.0\Prueba.dll
+C:\Users\julit\Escritorio\Julieta-Trostchansky-266993\Prueba\Prueba\obj\Debug\net8.0\refint\Prueba.dll
+C:\Users\julit\Escritorio\Julieta-Trostchansky-266993\Prueba\Prueba\obj\Debug\net8.0\Prueba.pdb
+C:\Users\julit\Escritorio\Julieta-Trostchansky-266993\Prueba\Prueba\obj\Debug\net8.0\ref\Prueba.dll
