@@ -19,6 +19,9 @@ public class Area
         return length * width;
     }
     
-    
+    public double CircleAreaCalculate(double radius)
+    {
+        return Math.PI * radius * radius;
+    }
     
 }
