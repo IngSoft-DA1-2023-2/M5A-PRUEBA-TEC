@@ -33,9 +33,37 @@ public class BaldosaCuadrada : Baldosa
     }
 }
 
+public class BaldosaTriangular : Baldosa
+{
+    public int Base { get; set; }
+    public int Altura { get; set; }
+    public override int Area()
+    {
+        return ((Base * Altura)/2);
+    }
+}
+
         public class Program
         {
             public static void Main(string[] args)
             {
+                var ceramica = new Material("ceramica", 10);
+                
+                var baldosas = new List<Baldosa>{
+                    new BaldosaCuadrada { Lado = 5, Material = ceramica },
+                    new BaldosaTriangular { Base = 5, Altura = 10, Material = ceramica }
+                };
+
+                var areaTotal = 0;
+                var precioTotal = 0;
+                
+                foreach (var baldosa in baldosas)
+                {
+                    areaTotal += baldosa.Area();
+                    precioTotal += baldosa.Precio();
+                }
+                
+                Console.WriteLine($"Area total: {areaTotal}");
+                Console.WriteLine($"Precio total: {precioTotal}");
             }
         }
