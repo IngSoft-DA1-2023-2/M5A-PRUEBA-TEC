@@ -14,4 +14,6 @@ public class Tile
         set => _material = value;
     }
 
+
+    public string Shape;
 }
