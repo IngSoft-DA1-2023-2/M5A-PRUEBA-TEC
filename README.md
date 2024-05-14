@@ -12,3 +12,10 @@ Se tiene una baldosería con una variedad de baldosas que pueden estar fabricada
 6. Proporcionar una lista de ejemplo que contenga varias baldosas con diferentes formas, materiales y tamaños para probar la funcionalidad del sistema.
 
 Para realizar la entrega forkear el repo y luego crear un PR con Nombre-Apellido-NumeroDeEstudiante
+
+
+
+4- El diseno permite extender la funcionalidad de el programa para incluir nuevas formas, materiales y precios. Lo que se debe de hacer para lograrlo es, incluir la nueva forma en el enum Size, incluir el nuevo material en el enum Material. Luego de debe agregar una entrada en el Hashmap MaterialPrices de la clase PriceCalculator con el par {Material, precio en float}.
+Finalmente para incluir la nueva forma se debe de crear una clase por ejemplo "CircularTile" que herede de la clase Tile, agregue los atributos necesarios para calcular su area, por ejemplo para este caso seria float _radius, y por ultimo hacer un override de la funcion CalculateArea implementando el calculo de la misma.
+
+Aclaracion, solo pude implementar 1 forma de las 2 que se pedian como ejemplo por falta de tiempo.
