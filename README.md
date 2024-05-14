@@ -1,14 +1,9 @@
 # Prueba Técnica 1 M5A
 
-En esta prueba técnica, utilizando TDD (Desarrollo Guiado por Pruebas) y siguiendo buenas prácticas de código, se solicita realizar el siguiente ejercicio.
+Mauro - Correa - 287417
 
-Se tiene una baldosería con una variedad de baldosas que pueden estar fabricadas con diferentes materiales y tener distintas formas (cuadrado, rectángulo, círculo). Los objetivos son los siguientes:
+Me faltó implementar la aplicación de consola para las pruebas, no me dió el tiempo.
 
-1. Calcular el área total y el área individual de una lista de baldosas.
-2. Calcular el precio total y el precio individual de la lista de baldosas.
-3. El costo se determina multiplicando el precio del material por el área de la baldosa.
-4. El diseño debe ser extensible para permitir la adición de nuevas formas y precios, minimizando el impacto en el código existente.
-5. Se debe incluir al menos tres formas diferentes (por ejemplo, cuadrado, rectángulo, círculo) y tres materiales diferentes (por ejemplo, cerámica, porcelana, piedra) para las baldosas.
-6. Proporcionar una lista de ejemplo que contenga varias baldosas con diferentes formas, materiales y tamaños para probar la funcionalidad del sistema.
+Para implementar una nueva forma o material de baldosa es tan fácil como crear una nueva clase, y no romperá nada de lo ya existente ya que es independiente a ello. Esta nueva clase debe de heredar de la clase abstracta Baldosa o Material, respectivamente.
 
-Para realizar la entrega forkear el repo y luego crear un PR con Nombre-Apellido-NumeroDeEstudiante
+Por ejemplo, podríamos añadir una baldosa de forma triangular y solamente habría que crear una clase BaldosaTriangular (e implementarla). Si queremos crear un nuevo material madera, bastaría con crear la clase MaterialMadera (e implementarla).
