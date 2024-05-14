@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=04e99996_002D31cc_002D4295_002Da842_002Dc9fbde94be50/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from CreateTile.cs #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;6C0909B6-AD7F-4044-99FC-3D30FD508B23/f:CreateTile.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0f0d42b1_002Da8c2_002D47ca_002D8ced_002D2692f7c95128/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from CreateTile.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;6C0909B6-AD7F-4044-99FC-3D30FD508B23/f:CreateTile.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8f4992a6_002Df116_002D40a7_002D813e_002Dabe897d10607/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from CreateTile.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;6C0909B6-AD7F-4044-99FC-3D30FD508B23/f:CreateTile.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ca8a9260_002Dd0e7_002D4b1c_002D83a8_002Da63328bdb5cd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from CreateTile.cs #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;6C0909B6-AD7F-4044-99FC-3D30FD508B23/f:CreateTile.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d3c41e7f_002De233_002D44dc_002Db1c5_002Df83df16b2d37/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from CreateTile.cs #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;6C0909B6-AD7F-4044-99FC-3D30FD508B23/f:CreateTile.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e60a9d7c_002D0d58_002D4b37_002Dac39_002Da92f71fd33b1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from CreateTile.cs #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;6C0909B6-AD7F-4044-99FC-3D30FD508B23/f:CreateTile.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

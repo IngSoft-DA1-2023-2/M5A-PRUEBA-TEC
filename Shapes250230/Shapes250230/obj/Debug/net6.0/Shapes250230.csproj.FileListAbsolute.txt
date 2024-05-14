@@ -1,0 +1,15 @@
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\bin\Debug\net6.0\Shapes250230.exe
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\bin\Debug\net6.0\Shapes250230.deps.json
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\bin\Debug\net6.0\Shapes250230.runtimeconfig.json
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\bin\Debug\net6.0\Shapes250230.dll
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\bin\Debug\net6.0\Shapes250230.pdb
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\obj\Debug\net6.0\Shapes250230.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\obj\Debug\net6.0\Shapes250230.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\obj\Debug\net6.0\Shapes250230.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\obj\Debug\net6.0\Shapes250230.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\obj\Debug\net6.0\Shapes250230.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\obj\Debug\net6.0\Shapes250230.dll
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\obj\Debug\net6.0\refint\Shapes250230.dll
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\obj\Debug\net6.0\Shapes250230.pdb
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\obj\Debug\net6.0\Shapes250230.genruntimeconfig.cache
+C:\Users\alumnoFI\Desktop\Trabajo Practico\M5A-PRUEBA-TEC\Shapes250230\Shapes250230\obj\Debug\net6.0\ref\Shapes250230.dll

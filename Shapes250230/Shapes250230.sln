@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes250230", "Shapes250230\Shapes250230.csproj", "{BA71DAB7-636E-4395-BB14-98C1B88E1CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes250230Tests", "Shapes250230Tests\Shapes250230Tests.csproj", "{6C0909B6-AD7F-4044-99FC-3D30FD508B23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA71DAB7-636E-4395-BB14-98C1B88E1CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA71DAB7-636E-4395-BB14-98C1B88E1CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA71DAB7-636E-4395-BB14-98C1B88E1CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA71DAB7-636E-4395-BB14-98C1B88E1CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C0909B6-AD7F-4044-99FC-3D30FD508B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0909B6-AD7F-4044-99FC-3D30FD508B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0909B6-AD7F-4044-99FC-3D30FD508B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0909B6-AD7F-4044-99FC-3D30FD508B23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
