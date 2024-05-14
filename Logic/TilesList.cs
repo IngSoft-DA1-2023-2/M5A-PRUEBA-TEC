@@ -21,4 +21,17 @@ public class TileList
             return totalCost;
         }
     }
+    
+    public int TotalArea
+    {
+        get
+        {
+            int totalArea = 0;
+            foreach (var tile in Tiles)
+            {
+                totalArea += tile.Shape.Area;
+            }
+            return totalArea;
+        }
+    }
 }
