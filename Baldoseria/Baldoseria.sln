@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baldoseria", "Baldoseria\Baldoseria.csproj", "{68715C92-8485-488A-9BD6-6EC6C7D20819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baldoseria.Test", "Baldoseria.Test\Baldoseria.Test.csproj", "{6F6F9257-CC09-4169-8F52-4952E1782D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68715C92-8485-488A-9BD6-6EC6C7D20819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68715C92-8485-488A-9BD6-6EC6C7D20819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68715C92-8485-488A-9BD6-6EC6C7D20819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68715C92-8485-488A-9BD6-6EC6C7D20819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6F9257-CC09-4169-8F52-4952E1782D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6F9257-CC09-4169-8F52-4952E1782D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6F9257-CC09-4169-8F52-4952E1782D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6F9257-CC09-4169-8F52-4952E1782D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,3 +1,17 @@
+Respuestas:
+En el caso del Material, cree un enum, donde se van agregando los nuevos materiales
+y definiendo el costo del mismo en MaterialCost. Decidi crear solamente un enum, el unico
+dato importante que debe tener un material es el costo por baldosa del mismo.
+
+En el caso del tipo de la baldosa cree una baldosa padre, en la cual creo nuevas baldosas 
+hijas que heredan de la misma. Tome esta desicion ya que las baldosas tienen distinta forma
+de calcular el area dependiendo del tipo de la misma, cuadrada, circular, etc. Esto permite
+extensibilidad ya que se pueden crear nuevas baldosas libremente sin afectar las demas
+
+Cuando hice el refactor de las baldosas y los materiales no me dio el tiempo para modificar los test para
+que acepten la nueva estructura.
+
+Letra
 # Prueba Técnica 1 M5A
 
 En esta prueba técnica, utilizando TDD (Desarrollo Guiado por Pruebas) y siguiendo buenas prácticas de código, se solicita realizar el siguiente ejercicio.
