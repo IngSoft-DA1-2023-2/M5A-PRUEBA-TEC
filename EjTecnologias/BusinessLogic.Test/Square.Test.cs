@@ -20,4 +20,12 @@ public class Square_Test
         square.Side = 5;
         Assert.AreEqual(5, square.Side);
     }
+    
+    [TestMethod]
+    public void ShouldCalculateSquareArea()
+    {
+        var square = new Square();
+        square.Side = 5;
+        Assert.AreEqual(25, square.Area());
+    }
 }
