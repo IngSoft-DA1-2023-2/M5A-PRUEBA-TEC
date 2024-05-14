@@ -7,4 +7,16 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Remove="BusinessLogic.Test\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="BusinessLogic.Test\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="BusinessLogic.Test\**" />
+    </ItemGroup>
+
 </Project>
