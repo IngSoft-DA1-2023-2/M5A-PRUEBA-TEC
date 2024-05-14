@@ -7,7 +7,7 @@ namespace TileShop
 
         public double Cost
         {
-            get => _cost;
+            get => _cost; 
             set
             {
                 if (value < 0)
