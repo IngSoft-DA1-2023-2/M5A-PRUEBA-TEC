@@ -36,4 +36,18 @@ public class Square_Test
         square.Material = "Wood";
         Assert.AreEqual("Wood", square.Material);
     }
+
+    [TestMethod]
+    public void ShouldGetTotalCost()
+    {
+        var square = new Square();
+        square.Side = 5;
+        const string expectedMaterial = "Wood";
+        square.Material = expectedMaterial;
+        const int area = 25;
+        const int expectedMaterialCost = 5;
+        const int expectedCost = 25 * expectedMaterialCost;
+        Assert.AreEqual(125, square.CalculateCost());
+        
+    }
 }
