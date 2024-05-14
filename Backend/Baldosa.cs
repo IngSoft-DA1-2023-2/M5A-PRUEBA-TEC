@@ -9,4 +9,6 @@ public abstract class Baldosa{
 
     }
 
+    public abstract int CalcularArea();
+
 }

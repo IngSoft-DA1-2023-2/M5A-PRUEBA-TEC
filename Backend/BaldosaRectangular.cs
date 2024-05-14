@@ -4,7 +4,7 @@ public class BaldosaRectangular : Baldosa{
 
     }
 
-    public int CalcularArea(){
+    public override int CalcularArea(){
         return largo * ancho;
     }
 }

@@ -19,7 +19,7 @@ public class UnitTestBaldoseria
         baldosa1.ancho = 2;
         baldosa1.Material = "Porcelana";
         baldoseria.AgregarBaldosa(baldosa1);
-        Assert.AreEqual(1,baldoseria.baldosas.Length());
+        Assert.AreEqual(1,baldoseria.baldosas.Count());
     }
 
     
@@ -38,7 +38,7 @@ public class UnitTestBaldoseria
         baldoseria.AgregarBaldosa(baldosa1);
         baldoseria.AgregarBaldosa(baldosa2);
         var resultadoEsperado = 10;
-        var resultado = baldoseria.calcularAreaTotal();
+        var resultado = baldoseria.CalcularAreaTotal();
         Assert.AreEqual(resultado,resultadoEsperado);
     }
 
