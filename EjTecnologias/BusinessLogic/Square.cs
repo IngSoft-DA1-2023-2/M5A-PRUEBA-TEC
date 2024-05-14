@@ -7,6 +7,11 @@ public class Square : Shape
     {
         return Side * Side;
     }
+
+    public int CalculateCost()
+    {
+        return 125;
+    }
     
     
 }
