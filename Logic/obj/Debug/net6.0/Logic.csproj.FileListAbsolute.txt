@@ -1,0 +1,15 @@
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/bin/Debug/net6.0/Logic
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/bin/Debug/net6.0/Logic.deps.json
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/bin/Debug/net6.0/Logic.runtimeconfig.json
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/bin/Debug/net6.0/Logic.dll
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/bin/Debug/net6.0/Logic.pdb
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/obj/Debug/net6.0/Logic.csproj.AssemblyReference.cache
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/obj/Debug/net6.0/Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/obj/Debug/net6.0/Logic.AssemblyInfoInputs.cache
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/obj/Debug/net6.0/Logic.AssemblyInfo.cs
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/obj/Debug/net6.0/Logic.csproj.CoreCompileInputs.cache
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/obj/Debug/net6.0/Logic.dll
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/obj/Debug/net6.0/refint/Logic.dll
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/obj/Debug/net6.0/Logic.pdb
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/obj/Debug/net6.0/Logic.genruntimeconfig.cache
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/Logic/obj/Debug/net6.0/ref/Logic.dll
