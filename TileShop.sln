@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileShop", "TileShop\TileShop.csproj", "{E0B16FBF-0FFA-4EC8-8C3E-A0957D5ABFA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileShop.Tests", "TileShop.Tests\TileShop.Tests.csproj", "{EA6C1670-46F0-470D-BAF5-13F8884EED52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0B16FBF-0FFA-4EC8-8C3E-A0957D5ABFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B16FBF-0FFA-4EC8-8C3E-A0957D5ABFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B16FBF-0FFA-4EC8-8C3E-A0957D5ABFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B16FBF-0FFA-4EC8-8C3E-A0957D5ABFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6C1670-46F0-470D-BAF5-13F8884EED52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6C1670-46F0-470D-BAF5-13F8884EED52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6C1670-46F0-470D-BAF5-13F8884EED52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6C1670-46F0-470D-BAF5-13F8884EED52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
