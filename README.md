@@ -12,3 +12,28 @@ Se tiene una baldosería con una variedad de baldosas que pueden estar fabricada
 6. Proporcionar una lista de ejemplo que contenga varias baldosas con diferentes formas, materiales y tamaños para probar la funcionalidad del sistema.
 
 Para realizar la entrega forkear el repo y luego crear un PR con Nombre-Apellido-NumeroDeEstudiante
+
+
+## Puntos no implementados:
+
+Funcionalidad calcular area y precio total de lista de baldosas: podria implementarse facilmente utilizando una lList<TipoDeBaldosaDeseado> como lo son el Square y El Circle (parcialmente implementado), agregando esta lista a una clase la cual puede tener un metodo calcularAreaTotal() y calcularPrecioTotal(), dichos metodos pueden llamar al Calculo de precio de cada baldosa en particular y sumarlos, asi como el area individual de cada uno.
+
+
+### Notas del diseno:
+
+ - Se utilizo una clase abstracta "Shape" de la cual extienden el resto de tipos de baldosas como Circle y Square, este opcion permite agregar nuevos tipos de manera muy sencilla y con un impacto muy bajo.
+
+ - Se utilizo una clase "MaterialHandler" para solicitar el costo de cada material asi como en un futuro, anadir nuevos materiales validos. Esta clase contiene una asociacion entre cada material y su precio.
+ - Gracias a la implementacion de MaterialHandler el anadido de nuevos materiales no tiene casi impacto, y a su vez, descarga de responsabilidad a las otras clases en cuanto a los precios.
+
+ ### Notas implementacion:
+
+ - Se implemento por completo la clase Square y parcialmente la clase Circle dejando como ejemplo como seria el anadido de nuevas figuras.
+ - La clase MaterialHandler esta parcialmente implementada dado que falta el metodo de agregar nuevos materiales, entre otros.
+
+
+
+
+
+
+
