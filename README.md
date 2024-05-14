@@ -1,4 +1,37 @@
-# Prueba Técnica 1 M5A
+# Prueba Técnica 1 M5A - Nicolás Russo Nro. 227286
+
+## Instrucciones
+
+### Agregar un nuevo material
+
+Para agregar un nuevo material, se debe seguir los siguientes pasos:
+1. Crear una nueva instancia de la clase `Material` en el archivo `Program.cs`.
+2. Asignarle un nombre y un precio.
+
+La justificación para tener una clase sola para los materiales y no implmentar polimorfismo ni otras estrategias es el principio **KISS**. Esta clase solo necesita guardar un nombre y un precio, por lo que no es necesario complicarla por ahora.
+
+### Agregar una nueva baldosa
+
+Para agregar una nueva baldosa, se debe seguir los siguientes pasos:
+1. Crear una nueva clase que herede de `Tile` en el archivo `TileShop.cs`.
+2. Agregar medidas necesarias.
+2. Crear un constructor que reciba por lo menos un material. Adicionalmente se pueden agregar las medidas necesarias.
+3. Implementar el método `CalculateAreaInMeters`.
+
+Acá se optó por usar polimorfismo ya que facilita el uso y la implementación resulta limpia.
+Las distintas baldosas son simples de agregar ya que la clase abstracta `Tile`, se puede extender fácilmente y ya implementa el método `CalculateCost` que no depende de la forma de la baldosa.
+
+## Testing
+
+Se utilizó TDD con MSTest en un proyecto separado `TileShop.Tests` para realizar las pruebas unitarias.
+
+### Coverage
+
+Se logró un coverage del 100% efectivo (excluyendo Program.cs) en el proyecto `TileShop`.
+
+<img width="550" alt="image" src="https://github.com/brainsaysno/M5A-PRUEBA-TEC/assets/48187554/29aef923-73c9-44ab-9f7c-a37c65604247">
+
+## Instrucciones
 
 En esta prueba técnica, utilizando TDD (Desarrollo Guiado por Pruebas) y siguiendo buenas prácticas de código, se solicita realizar el siguiente ejercicio.
 

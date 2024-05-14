@@ -1,0 +1,15 @@
+/Users/nrusso/RiderProjects/TileShop/TileShop/bin/Debug/net6.0/TileShop
+/Users/nrusso/RiderProjects/TileShop/TileShop/bin/Debug/net6.0/TileShop.deps.json
+/Users/nrusso/RiderProjects/TileShop/TileShop/bin/Debug/net6.0/TileShop.runtimeconfig.json
+/Users/nrusso/RiderProjects/TileShop/TileShop/bin/Debug/net6.0/TileShop.dll
+/Users/nrusso/RiderProjects/TileShop/TileShop/bin/Debug/net6.0/TileShop.pdb
+/Users/nrusso/RiderProjects/TileShop/TileShop/obj/Debug/net6.0/TileShop.csproj.AssemblyReference.cache
+/Users/nrusso/RiderProjects/TileShop/TileShop/obj/Debug/net6.0/TileShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nrusso/RiderProjects/TileShop/TileShop/obj/Debug/net6.0/TileShop.AssemblyInfoInputs.cache
+/Users/nrusso/RiderProjects/TileShop/TileShop/obj/Debug/net6.0/TileShop.AssemblyInfo.cs
+/Users/nrusso/RiderProjects/TileShop/TileShop/obj/Debug/net6.0/TileShop.csproj.CoreCompileInputs.cache
+/Users/nrusso/RiderProjects/TileShop/TileShop/obj/Debug/net6.0/TileShop.dll
+/Users/nrusso/RiderProjects/TileShop/TileShop/obj/Debug/net6.0/refint/TileShop.dll
+/Users/nrusso/RiderProjects/TileShop/TileShop/obj/Debug/net6.0/TileShop.pdb
+/Users/nrusso/RiderProjects/TileShop/TileShop/obj/Debug/net6.0/TileShop.genruntimeconfig.cache
+/Users/nrusso/RiderProjects/TileShop/TileShop/obj/Debug/net6.0/ref/TileShop.dll
