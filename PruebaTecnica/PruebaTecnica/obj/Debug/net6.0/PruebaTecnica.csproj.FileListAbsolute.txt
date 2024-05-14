@@ -1,0 +1,5 @@
+C:\Users\alumnoFI\RiderProjects\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0\PruebaTecnica.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\RiderProjects\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0\PruebaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\RiderProjects\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0\PruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\RiderProjects\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0\PruebaTecnica.AssemblyInfo.cs
+C:\Users\alumnoFI\RiderProjects\PruebaTecnica\PruebaTecnica\obj\Debug\net6.0\PruebaTecnica.csproj.CoreCompileInputs.cache
