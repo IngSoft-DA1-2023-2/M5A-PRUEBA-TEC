@@ -7,6 +7,11 @@ public class Tile
         
     }
 
-    public string Material;
+    private string _material;
+    public string Material
+    {
+        get => _material;
+        set => _material = value;
+    }
 
 }
