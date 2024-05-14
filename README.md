@@ -29,6 +29,8 @@ Se utilizó TDD con MSTest en un proyecto separado `TileShop.Tests` para realiza
 
 Se logró un coverage del 100% efectivo (excluyendo Program.cs) en el proyecto `TileShop`.
 
+<img width="550" alt="image" src="https://github.com/brainsaysno/M5A-PRUEBA-TEC/assets/48187554/29aef923-73c9-44ab-9f7c-a37c65604247">
+
 ## Instrucciones
 
 En esta prueba técnica, utilizando TDD (Desarrollo Guiado por Pruebas) y siguiendo buenas prácticas de código, se solicita realizar el siguiente ejercicio.
