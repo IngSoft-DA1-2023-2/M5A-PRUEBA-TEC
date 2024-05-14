@@ -12,3 +12,6 @@ Se tiene una baldosería con una variedad de baldosas que pueden estar fabricada
 6. Proporcionar una lista de ejemplo que contenga varias baldosas con diferentes formas, materiales y tamaños para probar la funcionalidad del sistema.
 
 Para realizar la entrega forkear el repo y luego crear un PR con Nombre-Apellido-NumeroDeEstudiante
+
+
+Para implementar nuevas formas y nuevos materiales es facil ya que simplemente tenes que crear una clase para cada cosa que quieras, ya sea un material o una forma
