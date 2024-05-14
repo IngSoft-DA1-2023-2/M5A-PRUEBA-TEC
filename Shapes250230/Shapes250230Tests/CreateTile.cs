@@ -31,4 +31,13 @@ public class CreateTile
         newTile.Material = expectedMaterial;
         Assert.AreEqual(expectedMaterial, newTile.Material);
     }
+    
+    [TestMethod]
+    public void ShouldSetCorrectShape()
+    {
+        Tile newTile = new Tile();
+        string expectedShape = "cuadrado";
+        newTile.Shape = expectedShape ;
+        Assert.AreEqual(expectedShape, newTile.Shape);
+    }
 }
