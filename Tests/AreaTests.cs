@@ -12,6 +12,7 @@ public class AreaTests
         Assert.IsNotNull(area);
     }
     
+    [TestMethod]
     public void SquareAreaCalculate()
     {
         Area area = new Area();
