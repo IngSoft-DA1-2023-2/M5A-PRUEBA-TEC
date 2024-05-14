@@ -12,3 +12,11 @@ Se tiene una baldosería con una variedad de baldosas que pueden estar fabricada
 6. Proporcionar una lista de ejemplo que contenga varias baldosas con diferentes formas, materiales y tamaños para probar la funcionalidad del sistema.
 
 Para realizar la entrega forkear el repo y luego crear un PR con Nombre-Apellido-NumeroDeEstudiante
+
+# Implementacion faltante
+
+En el proyecto falto la parte de agregar materiales, solo se llego a implementar una clase material, de donde deberian heredar los materiales que se quieran agregar. Tambien lo que falto es la lista de ejemplo que contenga varias baldosas, se hizo las clases para tres formas diferentes (triangulo, rectangulo y circulo), pero no se llego a implementar la lista de ejemplo con valores ya definidos.
+
+# Por que es extensible?
+
+Es extensible ya que el agregar nuevas formas no impacta de ninguna manera en las ya existentes, y lo mismo pasaria con los materiales si estuviesen implementados. Se podria agregar una nueva forma o material sin tener que modificar el codigo ya existente, solo se deberia agregar una nueva clase que herede de la clase base correspondiente.
