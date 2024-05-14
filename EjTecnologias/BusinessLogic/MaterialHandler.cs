@@ -24,6 +24,8 @@ public class MaterialHandler
         _materialCosts = new Dictionary<string, int>
         {
             { "Wood", 5 },
+            { "Metal", 10 },
+            { "Plastic", 2 }
         };
     }
 }
