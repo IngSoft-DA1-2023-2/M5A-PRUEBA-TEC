@@ -1,3 +1,5 @@
+using Baldoseria;
+
 namespace Tests;
 
 [TestClass]

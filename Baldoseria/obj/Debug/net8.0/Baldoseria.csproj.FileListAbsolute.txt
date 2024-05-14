@@ -1,0 +1,15 @@
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\bin\Debug\net8.0\Baldoseria.exe
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\bin\Debug\net8.0\Baldoseria.deps.json
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\bin\Debug\net8.0\Baldoseria.runtimeconfig.json
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\bin\Debug\net8.0\Baldoseria.dll
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\bin\Debug\net8.0\Baldoseria.pdb
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\obj\Debug\net8.0\Baldoseria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\obj\Debug\net8.0\Baldoseria.AssemblyInfoInputs.cache
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\obj\Debug\net8.0\Baldoseria.AssemblyInfo.cs
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\obj\Debug\net8.0\Baldoseria.csproj.CoreCompileInputs.cache
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\obj\Debug\net8.0\Baldoseria.sourcelink.json
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\obj\Debug\net8.0\Baldoseria.dll
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\obj\Debug\net8.0\refint\Baldoseria.dll
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\obj\Debug\net8.0\Baldoseria.pdb
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\obj\Debug\net8.0\Baldoseria.genruntimeconfig.cache
+D:\Ort\Repos\Agustin-Madrid-270635\Baldoseria\obj\Debug\net8.0\ref\Baldoseria.dll
