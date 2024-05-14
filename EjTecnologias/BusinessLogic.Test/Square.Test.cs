@@ -9,5 +9,6 @@ public class Square_Test
     public void ShouldCreateNewSquareShape()
     {
         var square = new Square();
+        Assert.IsNotNull(square);
     }
 }
