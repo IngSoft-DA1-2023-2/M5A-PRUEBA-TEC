@@ -1,4 +1,4 @@
-﻿namespace Shapes250230_Tests;
+﻿namespace Shapes250230Tests;
 
 [TestClass]
 public class CreateTile
@@ -7,6 +7,6 @@ public class CreateTile
     public void ShouldCreateTile()
     {
         Tile newTile = new Tile();
-        Assert.NotNull(newTile);
+        Assert.IsNotNull(newTile);
     }
 }
