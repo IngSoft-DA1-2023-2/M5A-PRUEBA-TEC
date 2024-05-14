@@ -12,3 +12,10 @@ Se tiene una baldosería con una variedad de baldosas que pueden estar fabricada
 6. Proporcionar una lista de ejemplo que contenga varias baldosas con diferentes formas, materiales y tamaños para probar la funcionalidad del sistema.
 
 Para realizar la entrega forkear el repo y luego crear un PR con Nombre-Apellido-NumeroDeEstudiante
+
+El método para crear una baldoza consiste en crearla indicando la forma y el material en el constructor, luego se llama al metodo CalculateTotalPrice que
+se encarga de llamar a los metodos respectivos de las propiedades de la balzoda para calcular el precio total, luego en el main puedo agregar varias baldozas
+con el metodo AddTile y cuando lo quiera llamar al CalculateTotal que se va a encargar de sumar todos los precios por area de cada baldoza y retornarlo.
+
+Si se quisiera agregar una forma nueva o un material nuevo, basta con crear una clase que implemente las interfaces correspondientes,
+en el caso de una forma puedo crear una clase Circle, la cual implementa IShape, le declaro sus atributos, como el radio, e implemento la función de la interfaz CalculateArea, luego para un material funciona igual, implemento IMaterial y hago el return del CalculatePrice como desee, en este caso es un número hardcodeado
