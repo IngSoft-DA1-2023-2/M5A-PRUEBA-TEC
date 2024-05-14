@@ -8,12 +8,12 @@ public class Square : Shape
     }
     public MaterialHandler MaterialHandler { get; set; }
     
-    public int Area()
+    public override int Area()
     {
         return Side * Side;
     }
 
-    public int CalculateCost()
+    public override int CalculateCost()
     {
         return Area() * MaterialHandler.GetMaterialCost(Material);
     }
