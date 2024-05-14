@@ -2,6 +2,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace BusinessLogic.Test;
 
+
 [TestClass]
 public class Square_Test
 {
@@ -11,8 +12,8 @@ public class Square_Test
         var square = new Square();
         Assert.IsNotNull(square);
     }
-    
-    
+
+
     [TestMethod]
     public void ShouldSetSquareSide()
     {
@@ -20,7 +21,7 @@ public class Square_Test
         square.Side = 5;
         Assert.AreEqual(5, square.Side);
     }
-    
+
     [TestMethod]
     public void ShouldCalculateSquareArea()
     {
@@ -48,6 +49,5 @@ public class Square_Test
         const int expectedMaterialCost = 5;
         const int expectedCost = 25 * expectedMaterialCost;
         Assert.AreEqual(125, square.CalculateCost());
-        
     }
 }

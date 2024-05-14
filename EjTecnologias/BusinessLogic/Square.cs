@@ -2,6 +2,11 @@ namespace BusinessLogic;
 
 public class Square : Shape
 {
+    public Square ()
+    {
+        MaterialHandler = new MaterialHandler();
+    }
+    public MaterialHandler MaterialHandler { get; set; }
     
     public int Area()
     {
@@ -10,7 +15,7 @@ public class Square : Shape
 
     public int CalculateCost()
     {
-        return Area() * 5;
+        return Area() * MaterialHandler.GetMaterialCost(Material);
     }
     
     
