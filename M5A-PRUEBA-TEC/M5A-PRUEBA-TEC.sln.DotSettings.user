@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=243aaabc_002Df81b_002D494d_002D98e1_002Dead0d18f0642/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestCalculateCircleArea" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;MSTest::8BFB5825-CA38-4D7D-98B4-318996F0A9EA::net6.0::Domain.Test.FormaAreaCalculatorTest.TestCalculateCircleArea&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;8BFB5825-CA38-4D7D-98B4-318996F0A9EA/f:Baldosa.Test.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;8BFB5825-CA38-4D7D-98B4-318996F0A9EA/f:CalculatorBaldosas.Test.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;8BFB5825-CA38-4D7D-98B4-318996F0A9EA/f:FormaAreaCalculatorTest.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
