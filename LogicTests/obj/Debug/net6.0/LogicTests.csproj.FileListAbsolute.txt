@@ -95,3 +95,9 @@
 /Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/LogicTests/obj/Debug/net6.0/LogicTests.pdb
 /Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/LogicTests/obj/Debug/net6.0/LogicTests.genruntimeconfig.cache
 /Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/LogicTests/obj/Debug/net6.0/ref/LogicTests.dll
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/LogicTests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/LogicTests/bin/Debug/net6.0/Logic.deps.json
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/LogicTests/bin/Debug/net6.0/Logic.runtimeconfig.json
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/LogicTests/bin/Debug/net6.0/Logic
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/LogicTests/bin/Debug/net6.0/Logic.dll
+/Users/facundoiraoladopazo/Desktop/Facundo-Iraola-Dopazo-244141-M5A-Tec-1/LogicTests/bin/Debug/net6.0/Logic.pdb
