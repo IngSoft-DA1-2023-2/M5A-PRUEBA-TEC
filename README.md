@@ -12,3 +12,7 @@ Se tiene una baldosería con una variedad de baldosas que pueden estar fabricada
 6. Proporcionar una lista de ejemplo que contenga varias baldosas con diferentes formas, materiales y tamaños para probar la funcionalidad del sistema.
 
 Para realizar la entrega forkear el repo y luego crear un PR con Nombre-Apellido-NumeroDeEstudiante
+
+Para extender la cantidad de materiales creo una nueva clase que herede material
+Para extender la cantidad de formas de las baldosas creo una nueva clase que implemente la intefaz shape
+Como Tile funciona con Material y Shape, si se hace esto, la nueva tile funcionara
