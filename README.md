@@ -1,14 +1,12 @@
 # Prueba Técnica 1 M5A
 
-En esta prueba técnica, utilizando TDD (Desarrollo Guiado por Pruebas) y siguiendo buenas prácticas de código, se solicita realizar el siguiente ejercicio.
+Intente realizar con tdd la aplicacion, fui agregando casos y refactoreando el codigo, pero no me dio el tiempo para terminar.
+Relaice una clases abstractas para permitir agregar mas formas de baldozas facilmente sin impactar el codigo existente, la clase abstracta la utilice debido a que las clases que agreguen quiero que tengan ciertos requisitos como, material y que pueda al menos calcular el area. Lo mismo para el material, quiero que tenga nombre y precio. Me cree materiales como ceramica que extienden la clase Material con su costo.
 
-Se tiene una baldosería con una variedad de baldosas que pueden estar fabricadas con diferentes materiales y tener distintas formas (cuadrado, rectángulo, círculo). Los objetivos son los siguientes:
+Me faltaron aspectos de cleancode a agregar, como por ejemplo los nombres de las properties, separar funciones. Utilice nombres de test con los resultados en su llamada, nombres de variables nemotecnicos etc.
 
-1. Calcular el área total y el área individual de una lista de baldosas.
-2. Calcular el precio total y el precio individual de la lista de baldosas.
-3. El costo se determina multiplicando el precio del material por el área de la baldosa.
-4. El diseño debe ser extensible para permitir la adición de nuevas formas y precios, minimizando el impacto en el código existente.
-5. Se debe incluir al menos tres formas diferentes (por ejemplo, cuadrado, rectángulo, círculo) y tres materiales diferentes (por ejemplo, cerámica, porcelana, piedra) para las baldosas.
-6. Proporcionar una lista de ejemplo que contenga varias baldosas con diferentes formas, materiales y tamaños para probar la funcionalidad del sistema.
+Me falto agregar la lista y darle la funcionalidad, de calcular el area en el total de una lista.
+Con poco codigo mas, funcionaria de forma correcta, deberia darle las funciones al repositorio, como add, modify, y remove.
+Luego de un manejador que contenga listas, hago la funcion de calcular, llamando al repositorio y que cada elemento acuerdo a su forma y material, calculo el precio.
 
-Para realizar la entrega forkear el repo y luego crear un PR con Nombre-Apellido-NumeroDeEstudiante
+Cualquier consulta quedo disponible.
