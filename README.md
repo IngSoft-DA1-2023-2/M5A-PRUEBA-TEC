@@ -12,3 +12,10 @@ Se tiene una baldosería con una variedad de baldosas que pueden estar fabricada
 6. Proporcionar una lista de ejemplo que contenga varias baldosas con diferentes formas, materiales y tamaños para probar la funcionalidad del sistema.
 
 Para realizar la entrega forkear el repo y luego crear un PR con Nombre-Apellido-NumeroDeEstudiante
+
+
+faltò terminar seguiìa hacer que las clases cuadrada hereden de forma y luego refactorear el metodo de calcular el precio
+
+tambièn lo de material el que se crea con su precio y nombre y se pasa por parametro a la clase baldosa
+
+es mut facil de mantener ya que se puede crear màs clases que hereden de forma y se pueden crear todos los matereales que se deseen sin necesidad de cambiar el còdigo

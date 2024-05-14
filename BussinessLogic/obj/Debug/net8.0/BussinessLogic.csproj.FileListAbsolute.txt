@@ -1,0 +1,15 @@
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\obj\Debug\net8.0\BussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\obj\Debug\net8.0\BussinessLogic.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\obj\Debug\net8.0\BussinessLogic.AssemblyInfo.cs
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\obj\Debug\net8.0\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\obj\Debug\net8.0\BussinessLogic.sourcelink.json
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\bin\Debug\net8.0\BussinessLogic.exe
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\bin\Debug\net8.0\BussinessLogic.deps.json
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\bin\Debug\net8.0\BussinessLogic.runtimeconfig.json
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\bin\Debug\net8.0\BussinessLogic.dll
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\bin\Debug\net8.0\BussinessLogic.pdb
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\obj\Debug\net8.0\BussinessLogic.dll
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\obj\Debug\net8.0\refint\BussinessLogic.dll
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\obj\Debug\net8.0\BussinessLogic.pdb
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\obj\Debug\net8.0\BussinessLogic.genruntimeconfig.cache
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic\obj\Debug\net8.0\ref\BussinessLogic.dll
