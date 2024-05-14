@@ -14,12 +14,12 @@ public class UnitTestBaldosaRectangular
     public void TestCalcularAreaBaldosaCuadrada()
     {
         var baldosa = new BaldosaCuadrada();
-        baldosa.Largo = 2;
-        baldosa.Ancho = 2;
+        baldosa.largo = 2;
+        baldosa.ancho = 2;
         baldosa.Material = "Porcelana";
         var resultadoEsperado = 4;
         var resultado = baldosa.CalcularArea();
-        Assert.AreEqual(resultado,resultadoEsperado)
+        Assert.AreEqual(resultado,resultadoEsperado);
     }
 
 }

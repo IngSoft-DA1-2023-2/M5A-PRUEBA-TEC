@@ -14,8 +14,8 @@ public class UnitTestBaldosaCuadrada
     public void TestCalcularAreaBaldosaRectangular()
     {
         var baldosa = new BaldosaRectangular();
-        baldosa.Largo = 2;
-        baldosa.Ancho = 3;
+        baldosa.largo = 2;
+        baldosa.ancho = 3;
         baldosa.Material = "Tierra";
         var resultadoEsperado = 6;
         var resultado = baldosa.CalcularArea();
