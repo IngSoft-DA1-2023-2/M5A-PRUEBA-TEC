@@ -1788,6 +1788,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Shapes250230/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Shapes250230.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shapes250230.dll": {}
+        }
       }
     }
   },
@@ -6253,6 +6263,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Shapes250230/1.0.0": {
+      "type": "project",
+      "path": "../Shapes250230/Shapes250230.csproj",
+      "msbuildProject": "../Shapes250230/Shapes250230.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6260,6 +6275,7 @@
       "MSTest.TestAdapter >= 2.2.8",
       "MSTest.TestFramework >= 2.2.8",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
+      "Shapes250230 >= 1.0.0",
       "coverlet.collector >= 3.1.2"
     ]
   },
@@ -6296,7 +6312,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230\\Shapes250230.csproj": {
+              "projectPath": "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230\\Shapes250230.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
