@@ -12,3 +12,8 @@ Se tiene una baldosería con una variedad de baldosas que pueden estar fabricada
 6. Proporcionar una lista de ejemplo que contenga varias baldosas con diferentes formas, materiales y tamaños para probar la funcionalidad del sistema.
 
 Para realizar la entrega forkear el repo y luego crear un PR con Nombre-Apellido-NumeroDeEstudiante
+
+Aclaracion de las cosas que me falto : 
+No me dio el tiempo de calcular area ni precio total . 
+Hice solamente metodos que calculen area y precio de esa baldosa. 
+No me dio el tiempo de terminar los test.
