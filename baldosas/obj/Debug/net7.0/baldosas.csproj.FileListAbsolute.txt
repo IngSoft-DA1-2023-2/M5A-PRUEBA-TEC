@@ -1,0 +1,15 @@
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\obj\Debug\net7.0\baldosas.csproj.AssemblyReference.cache
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\obj\Debug\net7.0\baldosas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\obj\Debug\net7.0\baldosas.AssemblyInfoInputs.cache
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\obj\Debug\net7.0\baldosas.AssemblyInfo.cs
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\obj\Debug\net7.0\baldosas.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\bin\Debug\net7.0\baldosas.exe
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\bin\Debug\net7.0\baldosas.deps.json
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\bin\Debug\net7.0\baldosas.runtimeconfig.json
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\bin\Debug\net7.0\baldosas.dll
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\bin\Debug\net7.0\baldosas.pdb
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\obj\Debug\net7.0\baldosas.dll
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\obj\Debug\net7.0\refint\baldosas.dll
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\obj\Debug\net7.0\baldosas.pdb
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\obj\Debug\net7.0\baldosas.genruntimeconfig.cache
+C:\Users\Victoria\RiderProjects\baldosas\baldosas\obj\Debug\net7.0\ref\baldosas.dll
