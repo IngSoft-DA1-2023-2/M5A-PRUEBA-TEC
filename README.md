@@ -12,3 +12,11 @@ Se tiene una baldosería con una variedad de baldosas que pueden estar fabricada
 6. Proporcionar una lista de ejemplo que contenga varias baldosas con diferentes formas, materiales y tamaños para probar la funcionalidad del sistema.
 
 Para realizar la entrega forkear el repo y luego crear un PR con Nombre-Apellido-NumeroDeEstudiante
+
+# Lo que falto hacer
+Tengo una clase que tiene la lista de baldosas en donde me falto hacer algunos metodos como eliminar buscar baldosa y si existe la bladosa. 
+en esta clase tambien debo de sumar todos los precios de las baldosas accediendo a Baldosa.MaterialBaldosa.Precio
+debo de tener un atributo en donde se me guarde el precio 
+En la clase Metrial baldosa tengo todos el precio por material 
+En la clase baldosa deberia de calcular el area por baldosa que tmapoco me dio el tiempo de hacerlo 
+Al hacer enums es facil agregar otra forma como opcion y otro material sin tener que modificar todo el codigo
