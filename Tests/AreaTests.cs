@@ -27,4 +27,13 @@ public class AreaTests
         double result = area.RectangleAreaCalculate(5, 10);
         Assert.AreEqual(50, result);
     }
+    
+    [TestMethod]
+    
+    public void CircleAreaCalculate()
+    {
+        Area area = new Area();
+        double result = area.CircleAreaCalculate(5);
+        Assert.AreEqual(78.54, result, 0.01);
+    }
 }

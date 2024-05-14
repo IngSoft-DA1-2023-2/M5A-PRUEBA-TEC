@@ -2,8 +2,11 @@
 
 public class Area
 {
+    
+    
     public Area()
     {
+        
     }
     
     public double SquareAreaCalculate(double side)
@@ -15,4 +18,7 @@ public class Area
     {
         return length * width;
     }
+    
+    
+    
 }
