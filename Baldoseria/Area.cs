@@ -10,4 +10,9 @@ public class Area
     {
         return side * side;
     }
+    
+    public double RectangleAreaCalculate(double length, double width)
+    {
+        return length * width;
+    }
 }
