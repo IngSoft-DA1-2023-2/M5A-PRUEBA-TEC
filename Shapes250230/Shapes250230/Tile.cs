@@ -21,4 +21,18 @@ public class Tile
         get => _shape;
         set => _shape = value;
     }
+    
+    private float _area;
+    public float Area
+    {
+        get => _area;
+        set => _area = value;
+    }
+    
+    private float _materialPrice;
+    public float MaterialPrice
+    {
+        get => _materialPrice;
+        set => _materialPrice = value;
+    }
 }
