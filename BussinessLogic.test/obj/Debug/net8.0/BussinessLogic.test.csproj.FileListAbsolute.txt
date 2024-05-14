@@ -1,0 +1,7 @@
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic.test\bin\Debug\net8.0\CoverletSourceRootsMapping_BussinessLogic.test
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic.test\obj\Debug\net8.0\BussinessLogic.test.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic.test\obj\Debug\net8.0\BussinessLogic.test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic.test\obj\Debug\net8.0\BussinessLogic.test.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic.test\obj\Debug\net8.0\BussinessLogic.test.AssemblyInfo.cs
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic.test\obj\Debug\net8.0\BussinessLogic.test.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Documents\GVdisenio\M5A-PRUEBA-TEC\BussinessLogic.test\obj\Debug\net8.0\BussinessLogic.test.sourcelink.json
