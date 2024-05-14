@@ -22,4 +22,13 @@ public class CreateTile
         newTile.Material = expectedMaterial;
         Assert.AreEqual(expectedMaterial, newTile.Material);
     }
+    
+    [TestMethod]
+    public void ShouldGetCorrectMaterial()
+    {
+        Tile newTile = new Tile();
+        string expectedMaterial = "basalto";
+        newTile.Material = expectedMaterial;
+        Assert.AreEqual(expectedMaterial, newTile.Material);
+    }
 }
