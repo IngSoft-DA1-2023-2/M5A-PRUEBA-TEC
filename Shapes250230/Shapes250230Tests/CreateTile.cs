@@ -14,6 +14,7 @@ public class CreateTile
         Assert.IsNotNull(newTile);
     }
     
+    [TestMethod]
     public void ShouldSetCorrectMaterial()
     {
         Tile newTile = new Tile();

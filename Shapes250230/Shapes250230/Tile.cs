@@ -7,4 +7,6 @@ public class Tile
         
     }
 
+    public string Material;
+
 }
