@@ -28,4 +28,12 @@ public class Square_Test
         square.Side = 5;
         Assert.AreEqual(25, square.Area());
     }
+
+    [TestMethod]
+    public void ShouldSetMaterial()
+    {
+        var square = new Square();
+        square.Material = "Wood";
+        Assert.AreEqual("Wood", square.Material);
+    }
 }
