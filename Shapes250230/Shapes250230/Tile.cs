@@ -15,5 +15,10 @@ public class Tile
     }
 
 
-    public string Shape;
+    private string _shape;
+    public string Shape
+    {
+        get => _shape;
+        set => _shape = value;
+    }
 }
