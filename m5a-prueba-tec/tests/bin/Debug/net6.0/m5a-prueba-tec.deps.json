@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "m5a-prueba-tec/1.0.0": {
+        "runtime": {
+          "m5a-prueba-tec.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "m5a-prueba-tec/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
