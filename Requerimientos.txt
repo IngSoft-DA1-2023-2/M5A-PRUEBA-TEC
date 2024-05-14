@@ -1,0 +1,13 @@
+Tiles:
+	- <<property>> material: String
+	- <<property>> forma: String
+	- <<property>> area: float
+	- <<property>> precioMaterial: float 
+	
+	+ getSingleTilePrice()
+
+Tile-Calculator(sistema):
+	- tilesList : List<Tile>
+	
+	+ Calcular el area total y el area individual de una lista de baldosas
+	+ Calcular el precio total y el precio individual de la lista de baldosas

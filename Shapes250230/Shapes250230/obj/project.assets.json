@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alumnoFI\\RiderProjects\\Shapes250230\\Shapes250230\\Shapes250230.csproj",
+      "projectUniqueName": "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230\\Shapes250230.csproj",
       "projectName": "Shapes250230",
-      "projectPath": "C:\\Users\\alumnoFI\\RiderProjects\\Shapes250230\\Shapes250230\\Shapes250230.csproj",
+      "projectPath": "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230\\Shapes250230.csproj",
       "packagesPath": "C:\\Users\\alumnoFI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alumnoFI\\RiderProjects\\Shapes250230\\Shapes250230\\obj\\",
+      "outputPath": "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

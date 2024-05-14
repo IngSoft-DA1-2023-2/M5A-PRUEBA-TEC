@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230\\Shapes250230.csproj": {}
+    "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230-Tests\\Shapes250230-Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230\\Shapes250230.csproj": {
+    "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230-Tests\\Shapes250230-Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230\\Shapes250230.csproj",
-        "projectName": "Shapes250230",
-        "projectPath": "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230\\Shapes250230.csproj",
+        "projectUniqueName": "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230-Tests\\Shapes250230-Tests.csproj",
+        "projectName": "Shapes250230-Tests",
+        "projectPath": "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230-Tests\\Shapes250230-Tests.csproj",
         "packagesPath": "C:\\Users\\alumnoFI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230\\obj\\",
+        "outputPath": "C:\\Users\\alumnoFI\\Desktop\\Trabajo Practico\\M5A-PRUEBA-TEC\\Shapes250230\\Shapes250230-Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -44,6 +44,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
