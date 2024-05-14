@@ -89,6 +89,23 @@ public class CreateTile
         newTile.MaterialPrice = expectedMaterialprice ;
         Assert.AreEqual(expectedMaterialprice, newTile.MaterialPrice);
     }
-   
-    
+
+
+    [TestMethod]
+    public void ShouldGetCorrectSingleTilePrice()
+    {
+        Tile newTile = new Tile();
+        float expectedMaterialprice = 3;
+        float expectedArea = 16;
+        string expectedShape = "cuadrado";
+        string expectedMaterial = "azulejo";
+        
+        newTile.MaterialPrice = expectedMaterialprice;
+        newTile.Area = expectedArea;
+        newTile.Shape = expectedShape;
+        newTile.Material = expectedMaterial;
+        Assert.AreEqual(newTile.GetSingleTilePrice(), newTile.MaterialPrice * newTile.Area);
+        
+    }
+
 }

@@ -35,4 +35,9 @@ public class Tile
         get => _materialPrice;
         set => _materialPrice = value;
     }
+
+    public float GetSingleTilePrice()
+    {
+        return _materialPrice * _area;
+    }
 }
